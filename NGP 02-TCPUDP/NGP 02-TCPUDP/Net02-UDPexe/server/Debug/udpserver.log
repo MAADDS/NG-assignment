@@ -1,0 +1,4 @@
+﻿  UDPserver.cpp
+C:\Users\Harry\Dropbox\4-1\network game programming\NGP 02-TCPUDP\NGP 02-TCPUDP\Net02-UDPexe\server\UDPserver.cpp(27,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Harry\Dropbox\4-1\network game programming\NGP 02-TCPUDP\NGP 02-TCPUDP\Net02-UDPexe\server\UDPserver.cpp(42,55): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  udpserver.vcxproj -> C:\Users\Harry\Dropbox\4-1\network game programming\NGP 02-TCPUDP\NGP 02-TCPUDP\Net02-UDPexe\server\Debug\udpserver.exe

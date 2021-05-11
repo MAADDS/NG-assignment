@@ -1,0 +1,4 @@
+C:\Users\Harry\Dropbox\4-1\network game programming\NGP 04\NGP 04-TCPmultiExe\Client\Debug\tcpclient.exe
+C:\Users\Harry\Dropbox\4-1\network game programming\NGP 04\NGP 04-TCPmultiExe\Client\Debug\tcpclient.pdb
+C:\Users\Harry\Documents\GitHub\NG-assignment\NGP 04\NGP 04-TCPmultiExe\Client\Debug\tcpclient.exe
+C:\Users\Harry\Documents\GitHub\NG-assignment\NGP 04\NGP 04-TCPmultiExe\Client\Debug\tcpclient.pdb

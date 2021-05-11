@@ -1,0 +1,2 @@
+C:\Users\Harry\Documents\GitHub\NG-assignment\NGP 05\NGP 05-TCPmultiExeClientThread\Client\Debug\tcpclientThread.exe
+C:\Users\Harry\Documents\GitHub\NG-assignment\NGP 05\NGP 05-TCPmultiExeClientThread\Client\Debug\tcpclientThread.pdb

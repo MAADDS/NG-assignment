@@ -1,0 +1,4 @@
+﻿  tcpServer.cpp
+C:\Users\Harry\Dropbox\4-1\network game programming\NGP 02-TCPUDP\NGP 02-TCPUDP\Net02-TCPexe\server\tcpServer.cpp(5,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\Harry\Dropbox\4-1\network game programming\NGP 02-TCPUDP\NGP 02-TCPUDP\Net02-TCPexe\server\tcpServer.cpp(59,43): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  tcpserver.vcxproj -> C:\Users\Harry\Dropbox\4-1\network game programming\NGP 02-TCPUDP\NGP 02-TCPUDP\Net02-TCPexe\server\tcpserver\Debug\tcpserver.exe
